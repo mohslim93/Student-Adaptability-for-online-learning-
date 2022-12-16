@@ -1,0 +1,15 @@
+Column,Variable Definition
+Gender,Gender of student
+Age,Age range of student
+Education Level,Education institution level
+Institution Type,Education institution type
+IT Student,Studying as IT student
+Location,Is student location in town
+Load-shedding,Level of load shedding
+Financial Condition,Financial condition of family
+Internet Type,Internet type used mostly in device
+Network Type,Network connectivity type
+Class Duration,Daily class duration
+Self Lms,Institution’s own LMS availability
+Device,Device used mostly in class
+Adaptivity Level,Adaptability level of the student
